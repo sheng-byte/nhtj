@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Sep 04 10:31:44 CST 2024
+netty-transport-native-kqueue-4.1.92.Final-osx-aarch_64.jar>nexus-aliyun=
+netty-transport-native-kqueue-4.1.92.Final.pom>nexus-aliyun=
+netty-transport-native-kqueue-4.1.92.Final-osx-x86_64.jar>nexus-aliyun=

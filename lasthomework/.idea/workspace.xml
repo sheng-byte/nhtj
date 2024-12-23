@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="23ad2880-e07c-4b6f-a20a-b54315a61a37" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2pZNUgQze4WQL2eXkoCjiz5BbVA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/file/src/main/resources/static/uploads" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\lws\lasthomework\file\src\main\resources\static\uploads" />
+      <recent name="D:\lws\lasthomework\file\src\main\resources\static.uploads" />
+      <recent name="D:\lws\lasthomework\getway\src\main\resources" />
+      <recent name="D:\lws\lasthomework\file\src\main\resources\static.upload" />
+      <recent name="D:\lws\lasthomework\file\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\lws\lasthomework\file\src\main\resources\static\uploads" />
+      <recent name="D:\lws\lasthomework\file\src\main\resources\static.uploads" />
+      <recent name="D:\lws\lasthomework\service\admin\src\main\java\cn\edu\nhic\nhtj" />
+      <recent name="D:\lws\lasthomework\service" />
+      <recent name="D:\lws\lasthomework\service\tree" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.edu.nhic.nhtj.file.utils" />
+      <recent name="cn.edu.nhic.nhtj.common.config" />
+      <recent name="cn.edu.nhic.nhtj.common" />
+      <recent name="cn.edu.nhic.nhtj.common.vo" />
+      <recent name="cn.edu.nhic.nhtj.common.client" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.FileApp">
+    <configuration name="TreeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.edu.nhic.nhtj.TreeApp" />
+      <module name="tree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.nhic.nhtj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.nhic.nhtj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.edu.nhic.nhtj.AdminApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="file" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.nhic.nhtj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.edu.nhic.nhtj.FileApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetwayApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="getway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.nhic.nhtj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.edu.nhic.nhtj.GetwayApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="tree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.nhic.nhtj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.edu.nhic.nhtj.TreeApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.TreeApp" />
+        <item itemvalue="Spring Boot.GetwayApp" />
+        <item itemvalue="Spring Boot.FileApp" />
+        <item itemvalue="Spring Boot.AdminApp" />
+        <item itemvalue="Application.TreeApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23ad2880-e07c-4b6f-a20a-b54315a61a37" name="Default Changelist" comment="" />
+      <created>1732969655994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732969655994</updated>
+      <workItem from="1732969657420" duration="3485000" />
+      <workItem from="1733036854168" duration="963000" />
+      <workItem from="1733038058211" duration="41000" />
+      <workItem from="1733038351511" duration="869000" />
+      <workItem from="1733041130510" duration="16000" />
+      <workItem from="1733055769847" duration="524000" />
+      <workItem from="1733058754575" duration="655000" />
+      <workItem from="1733137031138" duration="602000" />
+      <workItem from="1733137652573" duration="3578000" />
+      <workItem from="1733186743004" duration="1876000" />
+      <workItem from="1733229510010" duration="4431000" />
+      <workItem from="1733400990663" duration="4598000" />
+      <workItem from="1733489096110" duration="3775000" />
+      <workItem from="1733493097304" duration="251000" />
+      <workItem from="1733896934483" duration="231000" />
+      <workItem from="1733967657030" duration="6151000" />
+      <workItem from="1733988395242" duration="2986000" />
+      <workItem from="1734086466664" duration="6780000" />
+      <workItem from="1734156903553" duration="6731000" />
+      <workItem from="1734256441151" duration="9153000" />
+      <workItem from="1734502151092" duration="1155000" />
+      <workItem from="1734503338514" duration="1807000" />
+      <workItem from="1734574079351" duration="786000" />
+      <workItem from="1734609407172" duration="5347000" />
+      <workItem from="1734660593513" duration="1370000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

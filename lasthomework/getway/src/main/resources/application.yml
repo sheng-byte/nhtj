@@ -1,0 +1,29 @@
+server:
+  port: 8083
+spring:
+  application:
+    name: gateway
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+    gateway:
+      routes:
+        - id: nhtj-admin
+          uri: lb://nhtj-admin
+          predicates:
+            - Path=/admin/**,/auth/**
+          Filters:
+            - StripPrefix=1
+        - id: nhtj-tree
+          uri: lb://nhtj-tree
+          predicates:
+            - Path=/tree/**
+          Filters:
+            - StripPrefix=1
+        - id: nhtj-file
+          uri: lb://nhtj-file
+          predicates:
+            - Path=/file/**
+          Filters:
+            - StripPrefix=1

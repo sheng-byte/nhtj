@@ -1,0 +1,8 @@
+server:
+  port: 8081
+nh:
+  db:
+    dbname: nhtj-tree
+    username: root
+    password: 123456
+
